@@ -1,0 +1,12 @@
+and 2
+and 2
+or 3
+or 4
+xor 5
+xor 6
+add 3
+add 4
+mul 4
+mul 5
+sub 3
+sub 3
