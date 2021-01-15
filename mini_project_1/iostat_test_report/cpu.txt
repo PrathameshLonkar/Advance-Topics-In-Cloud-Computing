@@ -1,0 +1,347 @@
+Linux 5.4.0-1025-gcp (instance-1) 	10/09/20 	_x86_64_	(2 CPU)
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.4%    0.0%    0.4%    0.3%    0.0%   94.9%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.03         0.5k         0.0k       1.0M       0.0k
+loop1
+                  0.93         1.1k         0.0k       2.0M       0.0k
+loop2
+                  0.02         0.2k         0.0k     337.0k       0.0k
+loop3
+                  0.03         0.6k         0.0k       1.1M       0.0k
+sda
+                  7.28       308.5k       125.7k     586.8M     239.1M
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          34.5%    0.0%    0.2%    0.0%    0.0%   65.2%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  0.00         0.0k         0.0k       0.0k       0.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          50.1%    0.0%    0.0%    0.0%    0.0%   49.9%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  0.00         0.0k         0.0k       0.0k       0.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          49.9%    0.0%    0.2%    0.0%    0.0%   49.9%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  0.00         0.0k         0.0k       0.0k       0.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          49.9%    0.0%    0.3%    0.0%    0.0%   49.9%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  1.00         0.0k        14.0k       0.0k      28.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          49.9%    0.0%    0.0%    0.0%    0.2%   49.9%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  0.00         0.0k         0.0k       0.0k       0.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          50.1%    0.0%    0.0%    0.0%    0.0%   49.9%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  0.00         0.0k         0.0k       0.0k       0.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          50.0%    0.0%    0.0%    0.0%    0.0%   50.0%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  0.00         0.0k         0.0k       0.0k       0.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          50.0%    0.0%    0.2%    0.0%    0.0%   49.8%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  1.00         0.0k         6.0k       0.0k      12.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          50.0%    0.0%    0.0%    0.0%    0.0%   50.0%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  0.00         0.0k         0.0k       0.0k       0.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          50.0%    0.0%    0.0%    0.0%    0.0%   50.0%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  0.00         0.0k         0.0k       0.0k       0.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          50.1%    0.0%    0.0%    0.0%    0.0%   49.9%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  0.00         0.0k         0.0k       0.0k       0.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          49.9%    0.0%    0.0%    0.0%    0.3%   49.9%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  1.00         0.0k         6.0k       0.0k      12.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          50.1%    0.0%    0.0%    0.0%    0.0%   49.9%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  0.00         0.0k         0.0k       0.0k       0.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          50.1%    0.0%    0.0%    0.0%    0.0%   49.9%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  0.00         0.0k         0.0k       0.0k       0.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          49.9%    0.0%    0.2%    0.0%    0.0%   49.9%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  1.00         0.0k         6.0k       0.0k      12.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          49.9%    0.0%    0.5%    0.0%    0.0%   49.6%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  1.00         0.0k        10.0k       0.0k      20.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          50.0%    0.0%    0.0%    0.0%    0.0%   50.0%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  0.00         0.0k         0.0k       0.0k       0.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          49.9%    0.0%    0.0%    0.0%    0.2%   49.9%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  0.00         0.0k         0.0k       0.0k       0.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          49.8%    0.0%    0.5%    0.2%    0.0%   49.5%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  3.50         0.0k        26.0k       0.0k      52.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          50.1%    0.0%    0.0%    0.0%    0.0%   49.9%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  0.00         0.0k         0.0k       0.0k       0.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          44.6%    0.0%    0.0%    0.0%    0.0%   55.4%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  0.00         0.0k         0.0k       0.0k       0.0k
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.2%    0.0%    0.0%    0.0%    0.0%   99.8%
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+loop0
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop1
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop2
+                  0.00         0.0k         0.0k       0.0k       0.0k
+loop3
+                  0.00         0.0k         0.0k       0.0k       0.0k
+sda
+                  1.00         0.0k         6.0k       0.0k      12.0k
+
